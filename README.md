@@ -46,7 +46,7 @@ the installer scripts use a virtual drive of wine and makes a new `winprefix` fo
 
 first of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/Gictorbit/illustratorCClinux.git
+git clone https://github.com/John-Dekka/illustratorCClinux.git
 cd illustratorCClinux
 chmod +x setup.sh
 ./setup.sh
@@ -90,10 +90,3 @@ to uninstall illustrator you can use the uninstaller script with commands below
 chmod +x uninstaller.sh
 ./uninstaller.sh
 ```
----
-<a href="https://poshtiban.com">
-<img src="https://raw.githubusercontent.com/Gictorbit/photoshopCClinux/master/images/poshtibancom.png" width="25%"></a> 
-
-<a href="https://github.com/Gictorbit/photoshopCClinux">
-<img src="https://github.com/Gictorbit/photoshopCClinux/raw/master/images/AdobePhotoshop-icon.png" width="9%">
-</a>
